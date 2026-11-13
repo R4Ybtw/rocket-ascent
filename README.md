@@ -114,4 +114,3 @@ The code runs in MATLAB and in GNU Octave.
 
 Code: MIT (see `LICENSE`). Text and figures: CC BY 4.0. The thrust curves in `data/motors/` are not covered by either licence: they come from the motor file bundled with OpenRocket (GPL-3.0), compiled on ThrustCurve.org from NAR certification data. See `data/motors/SOURCE.md`.
 
-MATLAB, OpenRocket and SolidWorks Flow Simulation. The code was first drafted with an AI assistant, then read, modified and run by me. The simulations and conclusions are my own.
