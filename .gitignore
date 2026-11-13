@@ -1,0 +1,23 @@
+# SolidWorks / Flow Simulation results (large, regenerable)
+*.fld
+*.cpt
+*.fpe
+*.ftr
+*.res
+*.bak
+~$*
+/[0-9]*/
+# MATLAB
+*.asv
+*.mat
+# nothing project-specific
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Personal working guides (kept out of the repository)
+*-guide.md
+
+# SolidWorks parts and Flow Simulation / Simulation results (large, binary, regenerable)
+sim/

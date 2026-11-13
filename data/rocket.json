@@ -1,0 +1,21 @@
+{
+  "_comment": "Single source of truth for the rocket. Read by the MATLAB code (jsondecode) and by cad/make_rocket_step.py. SI units. Build the SAME rocket in OpenRocket.",
+  "name": "PR-1 reference rocket",
+  "body_diameter": 0.0416,
+  "nose_length": 0.17,
+  "nose_shape": "tangent ogive",
+  "body_length": 0.65,
+  "fin_count": 4,
+  "fin_root_chord": 0.10,
+  "fin_tip_chord": 0.05,
+  "fin_span": 0.06,
+  "fin_sweep_length": 0.05,
+  "fin_thickness": 0.003,
+  "fin_angle_offset_deg": 45,
+  "surface_roughness": 60e-6,
+  "dry_mass": 0.45,
+  "motor_file": "AeroTech_F40.eng",
+  "launch_rail_length": 1.0,
+  "launch_angle_deg": 0,
+  "launch_altitude": 10
+}

@@ -1,0 +1,17 @@
+;
+;Aerotech G80T RASP.ENG file made by Tim Van Milligan
+;For RockSim www.RockSim.com
+;File Created March 2, 2005
+;Thrust curve supplied by Aerotech for the molded case G80T motors.
+G80T 29 124 4-7-10 0.0479 0.1161 AT 
+0.016 110.761
+0.049 100.648
+0.195 98.537
+0.472 96.425
+0.635 90.091
+0.798 82.348
+0.99 63.345
+1.121 38.711
+1.215 18.3
+1.287 5.56
+1.41 0
